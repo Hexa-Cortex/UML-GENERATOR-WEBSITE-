@@ -39,7 +39,7 @@ UML-Diagram-Generator/
 
 1. Download or clone the repository:
 
-git clone https://github.com/your-username/uml-diagram-generator.git
+git clone https://github.com/Hexa-Cortex/UML-GENERATOR-WEBSITE-
 
 2. Open the project folder
 
